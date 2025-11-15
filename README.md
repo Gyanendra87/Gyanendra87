@@ -134,13 +134,7 @@ I'm always excited to collaborate on ML/AI projects, IoT innovations, or discuss
 
 ---
 
-## 💡 Fun Facts About Me
 
-- 🌟 Passionate about applying AI to solve real-world problems
-- 📊 Love building data-driven applications and IoT systems
-- 🤖 Fascinated by Transformers and modern NLP architectures
-- 🎯 Always learning new technologies and solving algorithmic challenges
-- 🌐 Fluent in **Hindi** (Native) and **English** (Proficient)
 
 ---
 
