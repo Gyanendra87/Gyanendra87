@@ -1,149 +1,145 @@
 # 👋 Hi, I'm Gyanendra Singh
 
-I'm a 3rd-year B.Tech student in **Electronics and Communication Engineering** at **IIIT Una**, passionate about building intelligent systems that bridge hardware and software. With a strong foundation in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**, I've been exploring cutting-edge technologies to create impactful solutions.
-
-Currently, I'm diving deeper into **Transformers**, **IoT systems**, and **data-driven applications**, combining my problem-solving mindset with modern frameworks to bring innovative ideas into practical, scalable solutions.
-
-## 📍 Contact & Links
-- **Location:** Una, India
-- **Email:** granendra2002@gmail.com
-- **GitHub:** [Gyanendra87](https://github.com/Gyanendra87)
-- **LinkedIn:** [Gyanendra Singh](https://linkedin.com/in/gyanendra-singh)
+I'm a 3rd-year B.Tech student in **Electronics and Communication Engineering** at **IIIT Una**, passionate about designing intelligent systems that merge hardware with AI-driven software.  
+I work with **Machine Learning, Deep Learning, NLP, IoT, and Edge AI**, and love building real-world, impactful projects.
 
 ---
 
-## 🧠 Skills & Technologies
+## 📍 Contact & Profiles  
+- 📧 Email: **granendra2002@gmail.com**  
+- 🔗 GitHub: **[Gyanendra87](https://github.com/Gyanendra87)**  
+- 🔗 LinkedIn: **[Gyanendra Singh](https://linkedin.com/in/gyanendra-singh)**  
 
-### Programming Languages
+---
+
+# 🧠 Skills & Technologies
+
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Machine Learning & Deep Learning
+### 🤖 Machine Learning & AI  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- **Core ML:** Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering
-- **Deep Learning:** Neural Networks, Transformers, Model Optimization
-- **NLP:** Natural Language Processing, Transformers, Text Classification
-- **Data Science:** NumPy, Pandas, Seaborn, Data Visualization
+- Supervised & Unsupervised ML  
+- Neural Networks, CNNs, Transformers  
+- NLP (Text Classification, Embeddings)  
+- Feature Engineering & Evaluation  
 
-### Tools & Technologies
+### 🛠 Tools & Tech  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-- **Development:** Jupyter Notebook, GitHub, VS Code
-- **Engineering:** MATLAB, ESP32, IoT Systems
-- **Other:** Data Structures & Algorithms, Problem Solving
+- Development: VS Code, GitHub  
+- Engineering: ESP32, IoT Systems  
+- DSA + Problem Solving  
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎵 [Music Recommendation System](https://github.com/Gyanendra87/music-recommendation)
-**Content-based Recommendation System using Machine Learning**
-- Built a content-based music recommendation system using similarity scores
-- Processed 1000+ songs, creating feature vectors and computing cosine similarity
-- Developed a Streamlit web app for real-time song search and recommendations
-- **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
-
-### 💧 [Water Level Monitoring Device](https://github.com/Gyanendra87/water-level-monitor)
-**IoT Project with Real-time Monitoring**
-- Built an ESP32-based IoT system for real-time water level monitoring
-- Integrated Blynk for remote alerts and notifications on smartphone
-- Automated overflow and shortage prevention using threshold-based triggers
-- **Tech Stack:** ESP32, Blynk, IoT Sensors
+### 🎵 Music Recommendation System  
+🔗 Repo: [Click Here](https://github.com/Gyanendra87/music-recommendation)  
+- Content-based recommendation using cosine similarity  
+- Processed 1000+ audio features  
+- Streamlit web app for real-time suggestions  
+- **Tech:** Python, Pandas, Scikit-learn  
 
 ---
 
-## 📊 GitHub Statistics
+### 💧 Water Level Monitoring (IoT)  
+🔗 Repo: [Click Here](https://github.com/Gyanendra87/water-level-monitor)  
+- ESP32-based real-time monitoring  
+- Blynk alerts for overflow control  
+- Threshold-based automation  
+- **Tech:** ESP32, IoT Sensors  
+
+---
+
+# 📊 Dynamic GitHub Statistics
 
 <div align="center">
-  
-<a href="https://github.com/Gyanendra87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gyanendra87&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra87&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</a>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gyanendra87&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gyanendra87&theme=radical&hide_border=true)](https://github.com/Gyanendra87)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra87&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-[![Gyanendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gyanendra87&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Gyanendra87)
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gyanendra87&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gyanendra87&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Gyanendra87)
+### 📈 Contribution Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gyanendra87&theme=redical&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🎯 What I'm Currently Working On
+<div align="center">
 
-- 🔬 Exploring advanced ML techniques and Transformer architectures
-- 🏗️ Building end-to-end ML applications with real-world impact
-- 🚀 Developing IoT solutions for smart automation
-- 📚 Strengthening Data Structures & Algorithms (250+ problems solved on LeetCode & GFG)
-- 💡 Contributing to open-source ML/AI projects
-- 🧠 Learning MLOps and model deployment best practices
+### 🐍 Contribution Snake  
+![snake](https://raw.githubusercontent.com/Gyanendra87/Gyanendra87/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 GitHub Trophies  
+<div align="center">
 
-- ✅ **250+ DSA problems** solved on LeetCode and GeeksforGeeks (2024)
-- 🥈 **2nd Rank** in "Circuit Buzz" Electronics Event (2023)
-- 📈 Consistent problem-solving journey with focus on competitive programming
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gyanendra87&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-
-## 💼 Positions of Responsibility
-
-- **Coordinator** - Mystery Ops and Ard-Win-O Event, IIIT Una (2023)
-- **Member** - EIC (Start-Up Club), IIIT Una (2023-2024)
-- **Member** - AAVESH (Electronics Society), IIIT Una (2023-2024)
+</div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+# 🎯 What I'm Working On
+- Learning advanced **Transformers & LLMs**  
+- Building real-world ML/AI products  
+- Scaling IoT projects with automation  
+- Improving DSA fundamentals (250+ problems)  
+- Exploring MLOps and model deployment  
 
-I'm always excited to collaborate on ML/AI projects, IoT innovations, or discuss new tech ideas. Feel free to reach out!
+---
+
+# 🏆 Achievements  
+- 🥈 2nd Place — *Circuit Buzz* Electronics Event  
+- 🔥 250+ LeetCode & GFG problems solved  
+- ⚡ Active contributor in ML & IoT projects  
+
+---
+
+# 🤝 Let's Connect  
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanendra-singh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gyanendra87)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:granendra2002@gmail.com)
 
----
-
-
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!  
+**“Building intelligent solutions that make a difference.”**
 
-**"Building intelligent solutions that make a difference, one project at a time."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gyanendra87&color=blueviolet&style=for-the-badge)
+![views](https://komarev.com/ghpvc/?username=Gyanendra87&style=for-the-badge&color=blueviolet)
 
 </div>
