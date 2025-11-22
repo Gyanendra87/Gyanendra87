@@ -219,7 +219,7 @@ I'm always open to collaborating on interesting projects and innovative ideas!
   
 **💡 Open to opportunities in ML/AI, IoT, and Embedded Systems**
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+
 
 *Last Updated: 2025*
 
