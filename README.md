@@ -57,7 +57,7 @@ I'm a 3rd-year B.Tech student in **Electronics and Communication Engineering** a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gyanendra87&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Gyanendra87&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanendra87&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -66,39 +66,13 @@ I'm a 3rd-year B.Tech student in **Electronics and Communication Engineering** a
 </table>
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra87&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=500)
-
-### 📊 Detailed Contribution Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gyanendra87&theme=radical)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gyanendra87&theme=radical" alt="Repos per Language" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gyanendra87&theme=radical" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gyanendra87&theme=radical" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gyanendra87&theme=radical&utcOffset=5.5" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
-### 📈 Contribution Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gyanendra87&custom_title=Gyanendra's%20Contribution%20Graph&bg_color=141321&color=FF4B8B&line=FF4B8B&point=FFFFFF&area_color=FF4B8B&area=true&hide_border=true)](https://github.com/Gyanendra87)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanendra87&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ### 🏆 GitHub Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Gyanendra87&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
-### 🐍 Contribution Snake Animation
-![Snake animation](https://raw.githubusercontent.com/Gyanendra87/Gyanendra87/output/github-contribution-grid-snake-dark.svg)
+### 📈 Contribution Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gyanendra87&custom_title=Gyanendra's%20Contribution%20Graph&bg_color=141321&color=FF4B8B&line=FF4B8B&point=FFFFFF&area_color=FF4B8B&area=true&hide_border=true)](https://github.com/Gyanendra87)
 
 </div>
 
@@ -115,8 +89,6 @@ I'm a 3rd-year B.Tech student in **Electronics and Communication Engineering** a
 - 🎼 Processed 1000+ audio features for accurate suggestions
 - 🌐 Interactive Streamlit web app for real-time recommendations
 - **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
-
----
 
 ### 💧 Water Level Monitoring System (IoT)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Gyanendra87/water-level-monitor)
@@ -155,72 +127,3 @@ current_goals = {
         "Embedded ML (TinyML)"
     ]
 }
-```
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Details |
-|:---:|:---:|
-| 🥈 **Circuit Buzz** | 2nd Place - Electronics Event |
-| 💻 **Problem Solving** | 250+ Problems on LeetCode & GFG |
-| 🚀 **Projects** | Multiple Deployed ML & IoT Solutions |
-| ⭐ **Open Source** | Active Contributor in ML/IoT Projects |
-| 🎓 **Academics** | Top Performer in ECE Core Subjects |
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🌟 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects and innovative ideas!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanendra-singh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gyanendra87)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:granendra2002@gmail.com)
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
-
----
-
-<div align="center">
-  
-**💡 Open to opportunities in ML/AI, IoT, and Embedded Systems**
-
-
-
-*Last Updated: 2025*
-
-</div>
